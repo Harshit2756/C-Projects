@@ -1,5 +1,5 @@
 // Harshit khnadelwal
-/*A class teacher wants to keep record of 10 students in the class along with the names and marks obtained in 5 subjects. Write a C program with function that displays
+/*A class teacher wants to keep record of students in the class along with the names and marks obtained in 5 subjects. Write a C program with function that displays
 a) Name of the student with highest marks in a particular subject.
 b) Overall percentage result of the class
 c) Total number of passing students in the class,
